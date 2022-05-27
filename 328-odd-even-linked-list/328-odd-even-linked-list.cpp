@@ -11,11 +11,16 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
+        if(!head || !head->next){
+            return head;
+        }
+        
         bool x= true;
-        ListNode* odd = new ListNode(); 
-        ListNode* even = new ListNode();
+        ListNode* odd = new ListNode(head->val); 
+        ListNode* even = new ListNode(head->next->val);
         ListNode* o=odd;
-         ListNode* e=even;
+        ListNode* e=even;
+        head =head->next->next;
         while(head){
             if(x){
                 ListNode* d = new ListNode(head->val);
@@ -29,7 +34,7 @@ public:
             x=!x;
             head=head->next;
         }
-        o->next = even->next; // we skip the zero Node
-      return odd->next;
+        o->next = even; // we skip the zero Node
+      return odd;
      }
 };
