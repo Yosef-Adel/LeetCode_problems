@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0491-non-decreasing-subsequences](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
@@ -29,6 +30,7 @@
 | [0067-add-binary](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0067-add-binary) |
 | [0520-detect-capital](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0520-detect-capital) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Array
 |  |
@@ -141,4 +143,5 @@
 |  |
 | ------- |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
