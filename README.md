@@ -26,6 +26,7 @@
 | [0058-length-of-last-word](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0067-add-binary) |
 | [0520-detect-capital](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0520-detect-capital) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0962-flip-string-to-monotone-increasing) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Array
 |  |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0042-trapping-rain-water) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0962-flip-string-to-monotone-increasing) |
 ## Stack
 |  |
 | ------- |
