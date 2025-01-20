@@ -41,6 +41,7 @@
 | [0066-plus-one](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0189-rotate-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
+| [0792-binary-search](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2836-neither-minimum-nor-maximum) |
@@ -103,6 +104,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0278-first-bad-version) |
+| [0792-binary-search](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
