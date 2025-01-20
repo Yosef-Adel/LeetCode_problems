@@ -123,4 +123,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
