@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -21,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0027-remove-element) |
