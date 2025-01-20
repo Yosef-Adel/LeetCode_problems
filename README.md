@@ -67,6 +67,7 @@
 | [0027-remove-element](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -142,6 +143,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
