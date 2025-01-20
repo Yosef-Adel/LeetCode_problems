@@ -40,6 +40,7 @@
 | [0027-remove-element](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0042-trapping-rain-water) |
+| [0057-insert-interval](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0189-rotate-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
