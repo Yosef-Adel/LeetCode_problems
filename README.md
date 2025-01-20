@@ -24,6 +24,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0067-add-binary) |
+| [0520-detect-capital](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0520-detect-capital) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Array
 |  |
