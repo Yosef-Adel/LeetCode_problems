@@ -32,6 +32,7 @@
 | [0042-trapping-rain-water](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0066-plus-one) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Bit Manipulation
 |  |
 | ------- |
