@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0013-roman-to-integer) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0067-add-binary) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +32,7 @@
 | [0042-trapping-rain-water](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0066-plus-one) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +56,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0067-add-binary) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String Matching
 |  |
 | ------- |
