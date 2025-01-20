@@ -21,18 +21,21 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0066-plus-one) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
