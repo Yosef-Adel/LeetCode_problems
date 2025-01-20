@@ -13,6 +13,7 @@
 | [0013-roman-to-integer](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0067-add-binary) |
+| [2857-total-distance-traveled](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2857-total-distance-traveled) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0067-add-binary) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2857-total-distance-traveled](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2857-total-distance-traveled) |
 ## String Matching
 |  |
 | ------- |
