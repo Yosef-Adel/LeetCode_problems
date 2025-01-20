@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0013-roman-to-integer) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
@@ -34,6 +35,7 @@
 | [0027-remove-element](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0066-plus-one) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Yosef-Adel/LeetCode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
